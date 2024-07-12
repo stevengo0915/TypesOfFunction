@@ -1,5 +1,4 @@
-# MyToken Smart Contract
-
+# Types of Function 
 ## Overview
 MyToken is an ERC20 token contract that allows for token minting, burning, and transferring functionalities. The contract inherits from OpenZeppelin's ERC20 and Ownable contracts, providing basic token operations and access control.
 
