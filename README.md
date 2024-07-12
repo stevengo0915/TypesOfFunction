@@ -3,9 +3,6 @@
 ## Overview
 MyToken is an ERC20 token contract that allows for token minting, burning, and transferring functionalities. The contract inherits from OpenZeppelin's ERC20 and Ownable contracts, providing basic token operations and access control.
 
-## License
-This project is licensed under the MIT License. See `LICENSE` for more information.
-
 ## Requirements
 - Only the contract owner should be able to mint tokens.
 - Users can transfer tokens to other addresses.
