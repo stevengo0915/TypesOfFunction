@@ -7,8 +7,10 @@ MyToken is an ERC20 token contract that allows for token minting, burning, and t
 - Users can transfer tokens to other addresses.
 - Users can burn their own tokens.
 
-## Features
-
+## Recordings
+- 1st Recording https://www.loom.com/share/b51c9d33b5a5467e8c04f7706a242b1f?sid=e1c83e1d-c4fc-4a32-bc03-c4f62a6f5ab9d
+- 2nd Recording https://www.loom.com/share/754eef2f92064ad686da154cbf7a5254
+  
 ### Constructor
 - **MyToken(string memory name, string memory symbol, address initialOwner)**
   - Initializes the token with a name and symbol.
